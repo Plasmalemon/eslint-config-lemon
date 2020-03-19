@@ -16,5 +16,8 @@
     "eslint-plugin-import": "^2.12.0",
     "eslint-plugin-pathname": "^1.0.0",
     "eslint-plugin-react": "^7.9.1"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.15"
   }
 }
