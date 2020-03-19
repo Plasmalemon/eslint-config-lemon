@@ -1,0 +1,6 @@
+{
+    "extends": [
+        "lemon/lib/engine",
+        "lemon/lib/base-rule"
+    ]
+}

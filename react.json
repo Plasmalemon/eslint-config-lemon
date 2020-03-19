@@ -1,0 +1,7 @@
+{
+    "extends": [
+        "lemon/lib/engine",
+        "lemon/lib/base-rule",
+        "lemon/lib/react-rule"
+    ]
+}
